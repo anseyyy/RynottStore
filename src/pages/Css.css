@@ -1,0 +1,102 @@
+
+.rynott-card {
+  background: #121a2f;
+  color: #e8ecf6;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.rynott-title {
+  font-weight: 700;
+  color: #4f7cff;
+}
+
+.form-label {
+  font-weight: 600;
+  color: #aab3c7;
+}
+
+.form-control {
+  background: #0b1221;
+  border: 1px solid rgba(255,255,255,0.15);
+  color: #e8ecf6;
+}
+
+.form-control:focus {
+  border-color: #4f7cff;
+  box-shadow: 0 0 0 0.2rem rgba(79,124,255,0.25);
+}
+
+button.btn-primary {
+  background: linear-gradient(90deg, #4f7cff, #00d3a7);
+  border: none;
+  font-weight: 600;
+}
+
+
+/* Cart.css */
+.cart-page {
+  background: #0b1221;
+  color: #e8ecf6;
+  border-radius: 12px;
+}
+
+.rynott-title {
+  font-weight: 700;
+  color: #4f7cff;
+}
+
+.cart-table th,
+.cart-table td {
+  vertical-align: middle;
+}
+
+.qty-input {
+  width: 60px;
+  text-align: center;
+  background: #121a2f;
+  color: #e8ecf6;
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 6px;
+}
+.qty-input:focus {
+  border-color: #4f7cff;
+  outline: none;
+}
+
+
+/* Wishlist.css */
+.wishlist-page {
+  background: #0b1221;
+  color: #e8ecf6;
+  border-radius: 12px;
+}
+
+.rynott-title {
+  font-weight: 700;
+  color: #4f7cff;
+}
+
+.wishlist-table th,
+.wishlist-table td {
+  vertical-align: middle;
+}
+
+button.btn-success {
+  background: linear-gradient(90deg, #00d3a7, #4f7cff);
+  border: none;
+  font-weight: 600;
+}
+
+
+h2 {
+  font-weight: bold;
+}
+
+.card-header {
+  font-size: 1.2rem;
+}
+
+img {
+  border-radius: 6px;
+}
